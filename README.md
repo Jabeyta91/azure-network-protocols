@@ -27,7 +27,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Create a resource group
 - Virtual network and subnets
-- Create two virtual machines and subnets one running windows the other Linux.
+- Create two virtual machines one running windows the other Linux.
 - Exam traffic using virtual machines using wireshark.
 
 <h2>Actions and Observations</h2>
