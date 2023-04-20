@@ -45,7 +45,7 @@ I start by creating a Windows 10 Virtual Machine (VM). While creating the VM, se
 <img src="https://i.imgur.com/zgP5qq6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To access wireshark I then open remote desktop and paste the IP address of my windows virtual machine. once my windows browser loads I search wireshark download on google. When the file is downloaded I open it in my computer folder and continue installation as prompted. As displayed in the picture once downlaod is complete wireshark shows live traffic. Its spamming traffic for the exampleyoull notice even though im not yet doing anything so much stuff is happening in the background. The source IP address 10.0.0.4 is sending traffic. 
 </p>
 <br />
 
