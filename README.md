@@ -53,6 +53,6 @@ To access wireshark I then open remote desktop and paste the IP address of my wi
 <img src="https://i.imgur.com/EZFEk1M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside my VM1 I open powershell and ping 10.0.0.5 which is my Linux VM2 private IP address. By filtering all traffic by IMCP. As you see there was four echo request followed by four replies. Source is diplaying VM1 IP address and the destination is VM2 IP address. 
 </p>
 <br />
