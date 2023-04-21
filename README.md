@@ -61,6 +61,6 @@ Inside my VM1 I open powershell and ping 10.0.0.5 which is my Linux VM2 private 
 <img src="https://i.imgur.com/EdzmSZr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In my Azure account I go to network security groups and access VM2, select Inbound rules, select add and then im prompted to add a rule to protocols. For instance I can set a rule to block incoming ICMP traffic.
 </p>
 <br />
